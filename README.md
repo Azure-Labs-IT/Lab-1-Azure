@@ -15,8 +15,9 @@ Project consists of a simple Azure Resource Group and Storage Account set up, gu
 
 <h2>Labs walk-through:</h2>
 
+<h2>Azure Account Creation:</h2>
 <p align="center">
-Visit Microsoft Azure website and click on Get Started: <br/>
+Before creating a Resource Group and/or a Storage Account or any kind of resource you will need an Azure Account. To create one visit Microsoft Azure website and click on Get Started: <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Get%20Started.png" height="80%" width="80%" alt="Get Started"/>
 <br />
 <br />
@@ -32,6 +33,8 @@ Enter personal details and banking info (Microsoft won't charge you unless you o
 <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Fill%20in%20details%20and%20banking%20info.png" height="80%" width="80%" alt="Enter Details and banking info"/>
 <br />
 <br />
+
+ <h2>Resource Group Creation:</h2>
 After creating account, search for resource group(s) service for your organization/company:  <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Search%20for%20resource%20groups%20in%20search%20bar.png" height="80%" width="80%" alt="Search for Resource groups"/>
 <br />
