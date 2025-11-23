@@ -15,7 +15,7 @@ Project consists of a simple Azure Resource Group and Storage Account set up, gu
 
 <h2>Labs walk-through:</h2>
 
-<h2>Azure Account Creation:</h2>
+<h3>Azure Account Creation:</h3>
 <p align="center">
 Before creating a Resource Group and/or a Storage Account or any kind of resource you will need an Azure Account. To create one visit Microsoft Azure website and click on Get Started: <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Get%20Started.png" height="80%" width="80%" alt="Get Started"/>
@@ -34,7 +34,7 @@ Enter personal details and banking info (Microsoft won't charge you unless you o
 <br />
 <br />
 
- <h2>Resource Group Creation:</h2>
+ <h3>Resource Group Creation:</h3>
 After creating account, search for resource group(s) service for your organization/company:  <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Search%20for%20resource%20groups%20in%20search%20bar.png" height="80%" width="80%" alt="Search for Resource groups"/>
 <br />
@@ -47,7 +47,7 @@ Create Resource Groups: <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Creating%20Resource%20Groups%202.png" height="80%" width="80%" alt="Deploy Research Groups 2"/>
 <br />
  
- <h2>Storage Account Creation </h2>
+ <h3>Storage Account Creation </h3>
 <br />
 Now that Research Group Creation and deployment have been complete, do the same thing with the Storage account Service as you did when searching for Research Groups, search "Storage Account" and click on it then click create :  <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Creating%20Storage%20Account.png" height="80%" width="80%" alt="Create Storage Account"/>
