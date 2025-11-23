@@ -34,7 +34,7 @@ Enter personal details and banking info (Microsoft won't charge you unless you o
 <br />
 <br />
 
- <h3>Resource Group Creation:</h3>
+
 After creating account, search for resource group(s) service for your organization/company:  <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Search%20for%20resource%20groups%20in%20search%20bar.png" height="80%" width="80%" alt="Search for Resource groups"/>
 <br />
