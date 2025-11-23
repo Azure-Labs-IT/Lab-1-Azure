@@ -51,7 +51,7 @@ Enter personal details and banking info (Microsoft won't charge you unless you o
  </p>
 
  
- <h3>Storage Account Creation </h3>
+ <h3>Storage Account Creation:</h3>
 <br />
 <p align="center">
 Now that Research Group Creation and deployment have been complete, do the same thing with the Storage account Service as you did when searching for Research Groups, search "Storage Account" and click on it then click create :  <br/>
