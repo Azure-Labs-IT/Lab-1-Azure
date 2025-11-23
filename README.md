@@ -33,22 +33,27 @@ Enter personal details and banking info (Microsoft won't charge you unless you o
 <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Fill%20in%20details%20and%20banking%20info.png" height="80%" width="80%" alt="Enter Details and banking info"/>
 <br />
 <br />
+</p>
 
+ <h3>Resource Group Creation:</h3>
+ <p align="center">
+ After creating account, search for resource group(s) service for your organization/company:  <br/>
+ <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Search%20for%20resource%20groups%20in%20search%20bar.png" height="80%" width="80%" alt="Search for Resource groups"/>
+ <br />
+ <br />
+ Review new resource group and adjust necessary settings:  <br/>
+ <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Creating%20Resource%20Groups.png" height="80%" width="80%" alt="Create Research Groups"/>
+ <br/>
+ <br/>
+ Create Resource Groups: <br/>
+ <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Creating%20Resource%20Groups%202.png" height="80%" width="80%" alt="Deploy Research Groups 2"/>
+ <br />
+ </p>
 
-After creating account, search for resource group(s) service for your organization/company:  <br/>
-<img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Search%20for%20resource%20groups%20in%20search%20bar.png" height="80%" width="80%" alt="Search for Resource groups"/>
-<br />
-<br />
-Review new resource group and adjust necessary settings:  <br/>
-<img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Creating%20Resource%20Groups.png" height="80%" width="80%" alt="Create Research Groups"/>
-<br/>
-<br/>
-Create Resource Groups: <br/>
-<img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Creating%20Resource%20Groups%202.png" height="80%" width="80%" alt="Deploy Research Groups 2"/>
-<br />
  
  <h3>Storage Account Creation </h3>
 <br />
+<p align="center">
 Now that Research Group Creation and deployment have been complete, do the same thing with the Storage account Service as you did when searching for Research Groups, search "Storage Account" and click on it then click create :  <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Creating%20Storage%20Account.png" height="80%" width="80%" alt="Create Storage Account"/>
 <br />
