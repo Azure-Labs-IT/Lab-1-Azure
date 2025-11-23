@@ -43,6 +43,7 @@ Review new resource group and adjust necessary settings:  <br/>
 Create Resource Groups: <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Creating%20Resource%20Groups%202.png" height="80%" width="80%" alt="Deploy Research Groups 2"/>
 <br />
+ <h2>Storage Account Creation </h2>
 <br />
 Research Group Creation and deployment complete, now do the same thing with the Storage account Service as you did when searching for Research Groups, search "Storage Account" and click on it then click create :  <br/>
 <img src="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/Creating%20Storage%20Account.png" height="80%" width="80%" alt="Create Storage Account"/>
