@@ -1,7 +1,7 @@
 <h1>Azure Resource Groups and Storage Account Creation</h1>
 
 <h2>Description</h2>
-Project consists of a simple Azure Resource Group and Storage Account set up, guiding users on how to create Azure resource groups and Azure Storage accounts
+This lab provides a foundational overview of cloud resource management by guiding users through the creation of an Azure Resource Group and a Storage Account. It demonstrates how to logically organize cloud assets within a resource group before provisioning a storage account to manage data. 
 <br />
 
 
